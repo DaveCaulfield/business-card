@@ -1,13 +1,10 @@
-# co14f40e08a229c8e3c887c3c
+# Scrimba Business card project
 
-Quick start:
+This web app is a HTML & CSS project completed on the Scrimba Pro Frontend career path course.
 
-```
-$ npm install
-$ npm start
-````
+The project was deployed on Netlify [here](https://luminous-biscotti-51e74c.netlify.app/)
 
-Head over to https://vitejs.dev/ to learn more about using vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
