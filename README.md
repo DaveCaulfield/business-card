@@ -1,8 +1,8 @@
-# Scrimba Business card project
+# Scrimba Business Card Project
 
 This web app is a HTML & CSS project completed on the Scrimba Pro Frontend career path course.
 
-The project was deployed on Netlify [here](https://luminous-biscotti-51e74c.netlify.app/)
+- The project was deployed on Netlify [here](https://luminous-biscotti-51e74c.netlify.app/)
 
 
 ## About Scrimba
