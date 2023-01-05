@@ -5,14 +5,14 @@ body {
     Find a web safe font you like, and add it 
     to your card.
     */
-    margin: 40px;
+    margin: 200px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: #15191A;
 }
 
 .card {
     width: 400px;
-    margin: auto;
+    margin: 0 auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
